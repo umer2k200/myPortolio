@@ -470,8 +470,8 @@ figcaption {
 }
 
 .wrapper.about {
-  background-image: url('../images/001.jpg');
-  background-position: 50%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url('../images/projects/Untitled\ design.png');
+  background-position: 50% 40%;
   background-repeat: no-repeat;
   background-size: cover;
 }
